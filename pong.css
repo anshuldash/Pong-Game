@@ -1,0 +1,35 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #FFFFFA;
+	background-image: url("https://wallpapertag.com/wallpaper/full/1/d/f/430406-black-cool-background-1920x1080-desktop.jpg");
+}
+
+#canvas {
+	margin: auto;
+	border: 1px solid #3A4454;
+}
+
+button {
+	display: none;
+	margin-top: 15px;
+	padding: 8px;
+	background-color: #EF6461;
+	color: white;
+	border: 4px solid #EF6461;
+	font-size: 25px;
+	font-family: 'Bangers', cursive;
+}
+
+h1 {
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 0;
+	background-color: #EF6461;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Bangers', cursive;
+}
